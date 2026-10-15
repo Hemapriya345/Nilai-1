@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+flask>=3.0
+pyserial>=3.5
+pytest>=8.0
+# optional: NPG Lite over BLE
+# bleak>=0.22
